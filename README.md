@@ -45,4 +45,5 @@
 
 # Reference
 
-=== If you use WETS and/or WEEM4TS, please cite the following reference. 
+=== If you use WETS and/or WEEM4TS, please cite the following reference:
+Hailu, T.T.; Yu, J.; Fantaye, T.G. A Framework for Word Embedding Based Automatic Text Summarization and Evaluation. Information 2020, 11, 78.
